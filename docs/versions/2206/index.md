@@ -1,9 +1,9 @@
 ---
 layout: page
 title: App Volumes API
-permalink: /apis/app-volumes-api/2.17.0/
+#permalink: /apis/app-volumes-api/2206/
 hide:
-  - navigation
+  #- navigation
   - toc
 ---
 
@@ -12,7 +12,7 @@ The App Volumes API documentation describes how to utilise the App Volumes REST 
 ## Documentation and Reference
 | Name | Link |
 | --- | --- |
-| Using App Volumes REST APIs | [Download](Using%20App%20Volumes%20REST%20APIs.pdf){ .md-button .md-button--primary } |
+| Using App Volumes 2206 REST APIs | [Download](Using%20App%20Volumes%202206%20REST%20APIs.pdf){ .md-button .md-button--primary } |
 
 ## API Reference
-<swagger-ui src="./swagger.json/>
+<swagger-ui src="swagger.json/>

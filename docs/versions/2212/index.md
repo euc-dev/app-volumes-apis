@@ -1,9 +1,9 @@
 ---
 layout: page
 title: App Volumes API
-permalink: /apis/app-volumes-api/2306/
+#permalink: /apis/app-volumes-api/2212/
 hide:
-  - navigation
+  #- navigation
   - toc
 ---
 
@@ -12,7 +12,7 @@ The App Volumes API documentation describes how to utilise the App Volumes REST 
 ## Documentation and Reference
 | Name | Link |
 | --- | --- |
-| Using App Volumes 2306 REST APIs | [Download](Using%20App%20Volumes%202306%20REST%20APIs.pdf){ .md-button .md-button--primary } |
+| VMware App Volumes API Programming Guide | [Download](VMware%20App%20Volumes%20API%20Programming%20Guide.pdf){ .md-button .md-button--primary } |
 
 ## API Reference
-<swagger-ui src="./swagger.json/>
+<swagger-ui src="swagger.json/>

@@ -4,7 +4,7 @@ title: Latest App Volumes API
 #permalink: /apis/app-volumes-api/
 hide:
   #- navigation
-  #- toc
+  - toc
 ---
 
 The App Volumes API documentation describes how to utilise the App Volumes REST API to query and configure App Volumes.
@@ -37,7 +37,7 @@ The latest version published is 2312.
 </style>
 
 | Name | Link |
-| --- | --- |
+| --- |:---:|
 | Horizon 2312 API Explorer | [2312](versions/2312/index.md) |
 | Horizon 2309 API Explorer | [2309](versions/2309/index.md) |
 | Horizon 2306 API Explorer | [2306](versions/2306/index.md) |

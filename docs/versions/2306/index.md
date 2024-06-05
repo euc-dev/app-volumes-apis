@@ -1,18 +1,18 @@
 ---
 layout: page
-title: App Volumes API
-#permalink: /apis/app-volumes-api/2306/
+title: App Volumes API 2306
+#permalink: /apis/app-volumes-api/2309/
 hide:
   #- navigation
   - toc
 ---
 
-The App Volumes API documentation describes how to utilise the App Volumes REST API to query and configure App Volumes.
+The App Volumes API documentation describes how to utilise the App Volumes REST API version 2306 to query and configure App Volumes.
 
 ## Documentation and Reference
-| Name | Link |
-| --- | --- |
-| Using App Volumes 2306 REST APIs | [Download](Using%20App%20Volumes%202306%20REST%20APIs.pdf){ .md-button .md-button--primary } |
+
+[cards cols=1 (docs/versions/2306/doc-ref.yaml)]
 
 ## API Reference
-<swagger-ui src="swagger.json/>
+
+<swagger-ui src="swagger.json"/>

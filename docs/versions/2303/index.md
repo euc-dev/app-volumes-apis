@@ -1,18 +1,18 @@
 ---
 layout: page
-title: App Volumes API
-#permalink: /apis/app-volumes-api/2303/
+title: App Volumes API 2303
+#permalink: /apis/app-volumes-api/2309/
 hide:
   #- navigation
   - toc
 ---
 
-The App Volumes API documentation describes how to utilise the App Volumes REST API to query and configure App Volumes.
+The App Volumes API documentation describes how to utilise the App Volumes REST API version 2303 to query and configure App Volumes.
 
 ## Documentation and Reference
-| Name | Link |
-| --- | --- |
-| VMware App Volumes API Programming Guide | [Download](VMware%20App%20Volumes%20API%20Programming%20Guide.pdf){ .md-button .md-button--primary } |
+
+[cards cols=1 (docs/versions/2303/doc-ref.yaml)]
 
 ## API Reference
-<swagger-ui src="swagger.json/>
+
+<swagger-ui src="swagger.json"/>

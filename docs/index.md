@@ -1,25 +1,44 @@
 ---
-layout: page
-title: App Volumes API
+#layout: page
+title: Latest App Volumes API
 #permalink: /apis/app-volumes-api/
 hide:
   #- navigation
-  - toc
+  #- toc
 ---
 
 The App Volumes API documentation describes how to utilise the App Volumes REST API to query and configure App Volumes.
 
+The latest version published is 2312.
+
 ## Documentation and Reference
+
+[cards cols=1 (docs/doc-ref.yaml)]
+
+<swagger-ui src="versions/2312/swagger.json"/>
+
+<!-- 
+
+!!swagger swagger.json!!
+[OAD(./docs/swagger.json)] 
+
+-->
+
+## Other API Version Documentation
+<!-- To make the table expand the whole screen -->
+<style>
+.md-typeset__table {
+  width: 100%;
+}
+
+.md-typeset__table table:not([class]) {
+  display: table
+}
+</style>
+
 | Name | Link |
 | --- | --- |
-| VMware App Volumes API Programming Guide | [Download](VMware%20App%20Volumes%20API%20Programming%20Guide.pdf){ .md-button .md-button--primary } |
-
-## API Reference
-<swagger-ui src="swagger.json/>
-
-### Older Version API Documentation
-| Name | Link |
-| --- | --- |
+| Horizon 2312 API Explorer | [2312](versions/2312/index.md) |
 | Horizon 2309 API Explorer | [2309](versions/2309/index.md) |
 | Horizon 2306 API Explorer | [2306](versions/2306/index.md) |
 | Horizon 2303 API Explorer | [2303](versions/2303/index.md) |

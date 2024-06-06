@@ -11,7 +11,7 @@ The App Volumes API documentation describes how to utilise the App Volumes REST 
 
 ## Documentation and Reference
 
-[cards cols=1 (docs/versions/2206/doc-ref.yaml)]
+[cards cols=1 (apis/app-volumes-apis/docs/versions/2206/doc-ref.yaml)]
 
 ## API Reference
 

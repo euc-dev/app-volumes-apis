@@ -3,8 +3,8 @@
 title: App Volumes API
 #permalink: /apis/app-volumes-api/
 hide:
-  - navigation
-  #- toc
+  #- navigation
+  - toc
 ---
 
 The App Volumes API documentation describes how to utilise the App Volumes REST API to query and configure App Volumes.
@@ -13,7 +13,7 @@ The latest version published is 2312.
 
 ## Documentation and Reference
 
-[cards cols=1 (docs/doc-ref.yaml)]
+[cards cols=1 (apis/app-volumes-apis/docs/doc-ref.yaml)]
 
 <swagger-ui src="versions/2312/swagger.json"/>
 
@@ -24,7 +24,6 @@ The latest version published is 2312.
 
 -->
 
-## Other API Version Documentation
 <!-- To make the table expand the whole screen -->
 <!-- <style>
 .md-typeset__table {
@@ -36,6 +35,9 @@ The latest version published is 2312.
 }
 </style> -->
 
+<!-- 
+## Other API Version Documentation
+
 | Name | Link |
 | --- |:---:|
 | Horizon 2312 API Explorer | [2312](versions/2312/index.md) |
@@ -46,4 +48,4 @@ The latest version published is 2312.
 | Horizon 2209 API Explorer | [2209](versions/2209/index.md) |
 | Horizon 2206 API Explorer | [2206](versions/2206/index.md) |
 | Horizon 2203 API Explorer | [2203](versions/2203/index.md) |
-| Horizon 2.17.0 API Explorer | [2.17.0](versions/2.17.0/index.md) |
+| Horizon 2.17.0 API Explorer | [2.17.0](versions/2.17.0/index.md) | -->

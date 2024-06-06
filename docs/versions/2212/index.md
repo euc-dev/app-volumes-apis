@@ -16,7 +16,3 @@ The App Volumes API documentation describes how to utilise the App Volumes REST 
 ## API Reference
 
 <swagger-ui src="swagger.json"/>
-
-## Other API Version Documentation
-
-**[Back to other API Version Documentation](../../index.md)**

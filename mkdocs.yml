@@ -1,5 +1,5 @@
 # Project Information
-site_name: omnissa Developer Portal
+site_name: apis/app-volumes-apis
 site_url: https://euc-dev.github.io/app-volumes-apis
 site_author: Phil Helmling
 site_description: POC for developer.omnissa.com
@@ -60,7 +60,7 @@ theme:
   - navigation.header
   - navigation.indexes
   - navigation.instant
-  - navigation.path
+  #- navigation.path
   - navigation.sections
   - navigation.tabs
   - navigation.tabs.sticky
@@ -70,7 +70,7 @@ theme:
   - search.share
   - search.suggest
   - toc.follow
-  - toc.integrate
+  #- toc.integrate
 
 # Plugins
 plugins:
@@ -100,7 +100,7 @@ extra:
     provider: mike
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/euc-oss/euc-samples
+      link: https://github.com/euc-oss/app-volumes-apis
     - icon: fontawesome/brands/x-twitter
       link: https://twitter.com/WorkspaceONE
     - icon: fontawesome/brands/youtube
@@ -160,22 +160,22 @@ markdown_extensions:
       permalink: true
 
 # Navigation
-nav:
-  - Home:
-    - /
-  - Dev Centre:
-    - /dev-centre/
-#  - Product Docs:
-#    - product-docs/index.md
-  - APIs:
-    - /apis/
-  - Code Samples: 
-    - /samples/
-  - PowerCLI:
-    - /powercli/
-  - SDKs: 
-    - /sdks/
-  - Support:
-    - /support/
-  - About:
-    - /about/
+# nav:
+#   - Home:
+#     - https://euc-dev.github.io/index.md
+#   - Dev Centre:
+#     - https://euc-dev.github.io/dev-centre/index.md
+# #  - Product Docs:
+# #    - product-docs/index.md
+#   - APIs:
+#     - https://euc-dev.github.io/apis/index.md
+#   - Code Samples: 
+#     - https://euc-dev.github.io/samples/index.md
+#   - PowerCLI:
+#     - https://euc-dev.github.io/powercli/index.md
+#   - SDKs: 
+#     - https://euc-dev.github.io/sdks/index.md
+#   - Support:
+#     - https://euc-dev.github.io/support/index.md
+#   - About:
+#     - https://euc-dev.github.io/about/index.md

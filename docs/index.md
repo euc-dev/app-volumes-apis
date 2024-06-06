@@ -1,10 +1,10 @@
 ---
 #layout: page
-title: Latest App Volumes API
+title: App Volumes API
 #permalink: /apis/app-volumes-api/
 hide:
-  #- navigation
-  - toc
+  - navigation
+  #- toc
 ---
 
 The App Volumes API documentation describes how to utilise the App Volumes REST API to query and configure App Volumes.
@@ -26,7 +26,7 @@ The latest version published is 2312.
 
 ## Other API Version Documentation
 <!-- To make the table expand the whole screen -->
-<style>
+<!-- <style>
 .md-typeset__table {
   width: 100%;
 }
@@ -34,7 +34,7 @@ The latest version published is 2312.
 .md-typeset__table table:not([class]) {
   display: table
 }
-</style>
+</style> -->
 
 | Name | Link |
 | --- |:---:|

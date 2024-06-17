@@ -15,7 +15,7 @@ The latest version published is 2312.
 
 <!-- [cards cols=1 (apis/app-volumes-apis/docs/doc-ref.yaml)] -->
 
-::cards:: image-bg
+::cards::
 
 - title: VMware App Volumes API Programming Guide
   #content: VMware App Volumes API Programming Guide

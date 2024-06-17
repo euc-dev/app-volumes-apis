@@ -11,7 +11,16 @@ The App Volumes API documentation describes how to utilise the App Volumes REST 
 
 ## Documentation and Reference
 
-[cards cols=1 (apis/app-volumes-apis/docs/versions/2306/doc-ref.yaml)]
+<!-- [cards cols=1 (apis/app-volumes-apis/docs/versions/2306/doc-ref.yaml)] -->
+
+::cards::
+
+- title: VMware App Volumes API Programming Guide
+  #content: VMware App Volumes API Programming Guide
+  url: Using App Volumes 2306 REST APIs.pdf
+  image: ../../../../assets/logos/app-volumes-logo.png
+
+::/cards::
 
 ## API Reference
 

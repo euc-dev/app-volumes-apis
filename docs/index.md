@@ -21,4 +21,4 @@ The latest version published is 2312.
 
 ::/cards::
 
-<swagger-ui src="versions/2312/swagger.json"/>
+<swagger-ui src="./versions/2312/swagger.json"/>

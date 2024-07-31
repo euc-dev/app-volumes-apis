@@ -145,7 +145,8 @@ markdown_extensions:
 # Navigation
 nav:
   - App Volumes APIs: index.md
-  - Versions:
+  - Versions: 
+    - versions/2312/index.md
     - v2312: versions/2312/index.md
     - v2309: versions/2309/index.md
     - v2306: versions/2306/index.md

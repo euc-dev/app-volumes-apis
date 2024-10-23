@@ -12,8 +12,8 @@ The App Volumes API documentation describes how to utilise the App Volumes REST 
 
 ::cards::
 
-- title: VMware App Volumes API Programming Guide
-  #content: VMware App Volumes API Programming Guide
+- title: App Volumes API Programming Guide
+  #content: App Volumes API Programming Guide
   url: VMware App Volumes API Programming Guide.pdf
   image: ../../../../assets/logos/app-volumes-logo.png
 

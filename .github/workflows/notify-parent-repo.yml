@@ -13,13 +13,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with: 
-          # repository: euc-dev/euc-dev.github.io
-          # gh secret set PARENT_ORG -b "euc-dev"
-          # gh secret set PARENT_REPO -b "euc-dev.github.io"
-          # gh secret set PRIVATE_TOKEN -b 'XXXXX'
           repository: ${{ secrets.PARENT_ORG }}/${{ secrets.PARENT_REPO }}
           token: ${{ secrets.PRIVATE_TOKEN }}
-          # token: ${{ secrets.GITHUB_TOKEN }}
           submodules: true
 
       - name: Pull and recursively update submodules
@@ -32,5 +27,5 @@ jobs:
           git config user.email "actions@github.com"
           git config user.name "GitHub Actions - update submodules"
           git add --all
-          git commit -m "Update submodules" || echo "No changes to commit"
+          git commit -m "Update submodules, triggered by ${GITHUB_REPOSITORY}" || echo "No changes to commit"
           git push

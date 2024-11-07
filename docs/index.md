@@ -17,7 +17,7 @@ The latest version published is 2312.
 - title: App Volumes API Programming Guide
   #content: App Volumes API Programming Guide
   url: versions/2312/VMware App Volumes API Programming Guide.pdf
-  image: ../../assets/logos/app-volumes-logo.png
+  image: ../../assets/logos/App-Volumes-h-lm.png
 
 ::/cards::
 

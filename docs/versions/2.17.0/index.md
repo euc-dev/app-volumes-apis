@@ -15,7 +15,7 @@ The App Volumes API documentation describes how to utilise the App Volumes REST 
 - title: Using App Volumes REST APIs
   #content: App Volumes API Programming Guide
   url: Using App Volumes REST APIs.pdf
-  image: ../../../assets/logos/App-Volumes-h-lm.png
+  image: ../../../../assets/logos/App-Volumes-h-lm.png
 
 ::/cards::
 

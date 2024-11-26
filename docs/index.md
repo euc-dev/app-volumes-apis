@@ -14,9 +14,9 @@ The latest version published is 2410.
 
 ::cards::
 
-- title: App Volumes API Programming Guide
+- title: Using App Volumes API Programming Guide
   #content: App Volumes API Programming Guide
-  url: versions/2410/VMware App Volumes API Programming Guide.pdf
+  url: versions/2410/Using App Volumes 2410 REST APIs.pdf
   image: ../../assets/logos/App-Volumes-h-lm.png
 
 ::/cards::

@@ -8,7 +8,7 @@ hide:
 
 The App Volumes API documentation describes how to utilise the App Volumes REST API to query and configure App Volumes.
 
-The latest version published is 2512.
+The latest version published is 2603.
 
 ## Documentation and Reference
 
@@ -17,9 +17,9 @@ The latest version published is 2512.
 - title: Using App Volumes API Programming Guide
   #content: App Volumes API Programming Guide
 
-  url: versions/2512/Using App Volumes 2512 REST APIs.pdf
+  url: versions/2603/Using App Volumes 2603 REST APIs.pdf
   image: ../../assets/logos/App-Volumes-h-lm.png
 
 ::/cards::
 
-<swagger-ui src="./versions/2512/swagger.json"/>
+<swagger-ui src="./versions/2603/swagger.json"/>

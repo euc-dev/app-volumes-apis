@@ -13,7 +13,7 @@ edit_uri: edit/main/docs/
 
 # Copyright
 copyright: |
-  Copyright &copy; 2005-2024 Omnissa, LLC. All rights reserved.<br/>
+  Copyright &copy; 2005-2026 Omnissa, LLC. All rights reserved.<br/>
 
 # Configuration
 theme:
@@ -148,6 +148,7 @@ markdown_extensions:
 nav:
   - App Volumes APIs: index.md
   - Versions: 
+    - v2603: versions/2603/index.md
     - v2512: versions/2512/index.md
     - v2509: versions/2509/index.md
     - v2506: versions/2506/index.md

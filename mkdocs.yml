@@ -148,6 +148,7 @@ markdown_extensions:
 nav:
   - App Volumes APIs: index.md
   - Versions: 
+    - v2603: versions/2606/index.md
     - v2603: versions/2603/index.md
     - v2512: versions/2512/index.md
     - v2509: versions/2509/index.md
